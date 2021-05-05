@@ -9,3 +9,7 @@
 ### 小試PyTorch
 
 [PPT](https://docs.google.com/presentation/d/1M_8lnWd52GstKso_sL1G0nUscWqykzjsCaefquYgEbc/edit?usp=sharing)
+
+### 基礎 CNN
+
+[PPT](https://docs.google.com/presentation/d/1I-3WXkT6QjeBP1_-f0gao9-x5IBTkExFGSz5WMZ7xvQ/edit?usp=sharing)
