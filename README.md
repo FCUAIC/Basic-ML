@@ -13,3 +13,6 @@
 ### 基礎 CNN
 
 [PPT](https://docs.google.com/presentation/d/1I-3WXkT6QjeBP1_-f0gao9-x5IBTkExFGSz5WMZ7xvQ/edit?usp=sharing)
+
+### R-CNN
+[PPT](https://docs.google.com/presentation/d/1Tfbd-4LFm7xmLNuDt7l2UKzqkB1HJac25adGNA8wdWY/edit?usp=sharing)
