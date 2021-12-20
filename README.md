@@ -16,3 +16,6 @@
 
 ### R-CNN
 [PPT](https://docs.google.com/presentation/d/1Tfbd-4LFm7xmLNuDt7l2UKzqkB1HJac25adGNA8wdWY/edit?usp=sharing)
+
+### CGAN
+[PPT](https://docs.google.com/presentation/d/1jkT9ZJs6lsgJTMjxhOinMg1BEWXs73Ew88CB05fW_8s/edit?usp=sharing)
