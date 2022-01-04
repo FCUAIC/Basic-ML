@@ -19,3 +19,8 @@
 
 ### CGAN
 [PPT](https://docs.google.com/presentation/d/1jkT9ZJs6lsgJTMjxhOinMg1BEWXs73Ew88CB05fW_8s/edit?usp=sharing)
+
+
+## Resources
+
+[手刻反向傳播](https://gist.github.com/Pr0gCat/4acb685a686366b20a7e868a0302bcd9)
